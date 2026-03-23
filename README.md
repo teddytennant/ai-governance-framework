@@ -1,6 +1,6 @@
 # Constitution for Truth-Seeking AI
 
-A constitutional prompt for generating synthetic training data. Six principles, two files.
+A constitutional prompt for generating synthetic training data. Seven principles, two files.
 
 I use this to generate synthetic data, and as my system prompt for all LLM providers that I use.
 
