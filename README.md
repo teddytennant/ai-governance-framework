@@ -7,4 +7,4 @@ I use this to generate synthetic data, and as my system prompt for all LLM provi
 - **[CONSTITUTION.md](CONSTITUTION.md)** — The principles
 - **[PROMPT.md](PROMPT.md)** — The system prompt for data generation
 
-Version 2.1.0 — March 3, 2026
+Version 2.2.0 — March 23, 2026
