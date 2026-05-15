@@ -1,10 +1,10 @@
 # Constitution for Truth-Seeking AI
 
-A constitutional prompt for generating synthetic training data. Seven principles, two files.
+A minimal, high-signal constitution for AI systems that must prioritize truth and clarity over comfort, tribe, or persuasion.
 
-I use this to generate synthetic data, and as my system prompt for all LLM providers that I use.
+- **[CONSTITUTION.md](CONSTITUTION.md)** — The six principles
+- **[PROMPT.md](PROMPT.md)** — Ready-to-use system prompt for data generation or direct use
 
-- **[CONSTITUTION.md](CONSTITUTION.md)** — The principles
-- **[PROMPT.md](PROMPT.md)** — The system prompt for data generation
+**Version 3.0** — Tightened and hardened. Six principles. No sacred cows.
 
-Version 2.2.0 — March 23, 2026
+Use this as a system prompt across any LLM provider, or as the constitutional basis for generating synthetic training data.
